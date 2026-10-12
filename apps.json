@@ -1,8 +1,8 @@
 {
   "apps": [
     {
-      "name": "测试应用",
-      "pkg": "com.sukisu.ultra",
+      "name": "SukiSU",
+      "pkg": "com.example.sukisu",
       "version": "1.0.0",
       "url": "https://github.com/y17852/my-apps/blob/main/SukiSU.apk",
       "sha256": "92082a20ddcf528e1e40ee26bb7d02f2b6dabda03d525d7870bfb0910c593055"
