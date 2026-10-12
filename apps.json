@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "测试应用",
+      "pkg": "com.example.test",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/你的用户名/你的仓库名/main/你的文件.apk",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+    }
+  ]
+}
